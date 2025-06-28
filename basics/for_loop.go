@@ -2,7 +2,7 @@ package basics
 
 import "fmt"
 
-func forLoop() {
+func forLoopMain() {
 	// // simple iteration over a range
 	// for i := 1; i <= 5; i++ {
 	// 	fmt.Println(i)

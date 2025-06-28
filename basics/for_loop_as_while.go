@@ -2,7 +2,7 @@ package basics
 
 import "fmt"
 
-func forLoopAsWhile() {
+func forLoopAsWhileMain() {
 	// infinite loop
 	// for {
 	// 	fmt.Println("Hello")

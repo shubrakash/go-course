@@ -5,7 +5,7 @@ import (
 	"slices"
 )
 
-func slicesBasics() {
+func slicesMain() {
 	//// ways of declaration
 	// var variableName []type
 
