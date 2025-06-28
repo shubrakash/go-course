@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func guessingGame() {
+func guessingGameMain() {
 	limit := 100
 
 	fmt.Println("Welcome to the Guessing game!")

@@ -2,7 +2,7 @@ package basics
 
 import "fmt"
 
-func arrays() {
+func arraysMain() {
 	// //// declare array variable
 	// // var variableName [size]type
 	// var numbers [5]int

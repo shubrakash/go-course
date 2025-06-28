@@ -25,7 +25,7 @@ type Employee struct {
 // 	employee2 := Employee{"Shubham", "shubham@gmail.com", 123}
 // }
 
-func arithematicOperations() {
+func arithematicOperationsMain() {
 	var a, b int = 10, 3
 	var result int
 
